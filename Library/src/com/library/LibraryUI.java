@@ -20,6 +20,7 @@ public class LibraryUI {
 		library = new Library();
 		
 		LibraryUI.mainMenu();
+		LibraryUI.mainMenu();
 		
 
 	}
